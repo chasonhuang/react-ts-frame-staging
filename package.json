@@ -1,0 +1,18 @@
+{
+  "name": "react-ts-frame",
+  "version": "1.0.12",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chasonhuang",
+  "license": "ISC",
+  "bin": {
+    "react-ts-frame": "bin/react-ts-frame"
+  },
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "commander": "^5.1.0"
+  }
+}
